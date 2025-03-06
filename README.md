@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**henry970124/henry970124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Haner, a blue team player and CTF forensic player with a passion for cyber security. I am currently a sophomore in high school.
 
-Here are some ideas to get you started:
+## About me
+- 🛡️ Cybersecurity Blue Team Player
+- 🕵️‍♂️ CTF Forensic Player
+- 🎓 High School Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+- 📧 Email: henry970124@gmail.com
+- 💬 Discord: h4n3r_
+
+## Programming Languages ​​I Know
+- C > C++ > Python > Java > PHP > Kotlin
